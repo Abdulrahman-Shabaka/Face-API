@@ -1,1 +1,1 @@
-# Console-C#-FaceAPI-FaceDetection-FaceRecognition-FindSimilarFaces-VerifyFaces
+# Console C# Face API & Face Detection & Face Recognition & Find Similar Faces& Verify Faces.
